@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @FadhiliNjagi
-- 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning RESTFUL APIs with Node and Express JS
-- ⚒  Skills: Frontend (HTML, CSS, Js, Vue Js, Quasar), Backend (PHP, Laravel, Node + Express JS, MySQL), Others: Python.
+- 👀 I’m interested in full-stack cross-platform web and app Development, and building AI models.
+- 🌱 I’m currently learning .NET Blazor, Nuxt JS and using Hugging Face AI models.
+- ⚒  Skills:
+  - Programming: Javascript, TypeScript, C#, Python, PHP, C++.
+  - Frontend (HTML, CSS, Js, Vue Js, Quasar, Nuxt JS, .NET Blazor, .NET MAUI)
+  - Backend (Node + Fastify/Adonis JS, ASP.NET, Laravel)
+  - AI: Jupyter Notebook, Google Colab, Tensorflow, Transformers.
 - 💞️ I’m looking to collaborate on web projects
 - 📝 I use [Gitlab](https://gitlab.com/fadhili_njagi) for most of my personal projects. It was my first love.
-- 📫 Contact me at fadhili@nixque.com
+- 📫 Contact me at fadhili.njagi@stakimu.com
 
 <!---
 FadhiliNjagi/FadhiliNjagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
