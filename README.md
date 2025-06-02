@@ -8,6 +8,7 @@
   - AI: Jupyter Notebook, Google Colab, Tensorflow, Transformers.
 - 💞️ I’m looking to collaborate on web projects
 - 📝 I use [Gitlab](https://gitlab.com/fadhili_njagi) for most of my personal projects. It was my first love.
+- My Github and Gitlab profiles are not very active since I have a full-time developer job, and I am also working on private projects, including [Stakimu](https://stakimu.com).
 - 📫 Contact me at fadhili.njagi@stakimu.com
 
 <!---
